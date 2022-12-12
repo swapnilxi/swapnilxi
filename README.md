@@ -23,18 +23,18 @@
 ### java-notes
 
 ## Java-at-Microsoft
-### Practices, Link, videos, and resources for Java usages at Microsoft and Azure
-### Java in Visual Studio Code 
-### Java at Azure 
-### Spring and Spring boot at Azure
+- Practices, Link, videos, and resources for Java usages at Microsoft and Azure
+- Java in Visual Studio Code 
+- Java at Azure 
+- Spring and Spring boot at Azure
 
 <hr/>
 # ⚡ Data Structures and Algorithms in Java
 
 ## DSA-Ninja-Java
-### Repository for Leetcode problems and GFG
-### Leetcode
-### Dev.to | Gitbook
+- Repository for Leetcode problems and GFG
+- Leetcode
+- Dev.to | Gitbook
 
 # ⚡Projects
 ##
