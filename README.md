@@ -2,11 +2,11 @@
 - 📫 reach me: Email | Linkedin | Twitter
 - 📫 portfolio: [SwapnilProfile| Java](https://bit.ly/swapnilProfile)  
 
-# 🔭 I’m currently working on 
-# ⚡ Open Source
+## 🔭 I’m currently working on 
+# ⚡Open Source
 
 <hr/>
-# ⚡ Java- 
+# ⚡Java- 
 
 ## Java-Ninja 
 ### Repository for Basics Java Learning 
