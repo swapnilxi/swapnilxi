@@ -30,6 +30,7 @@
 - Spring and Spring boot at Azure
 
 <hr/>
+
 # ⚡ Data Structures and Algorithms in Java
 
 ## DSA-Ninja-Java
@@ -38,7 +39,9 @@
 - Dev.to | Gitbook
 
 # ⚡Projects
-##
+## Home to Hospital
+## The Social Plant 
+### Pay2Mobile Admin Dashboard
 <hr/>
 
 # ⚡React
@@ -51,14 +54,15 @@
   - Clothing Store 
 
 <hr/>
+
 # ⚡Spring Boot
 
 ## Spring-Ninja 
-## Spring Cloud 
-## Spring Azure
+- Spring Cloud 
+- Spring Azure
 <hr/>
 
-# Cloud Computing and Devops
+# ⚡Cloud Computing and Devops
 
 <!--
 **swapnilxi/swapnilxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
