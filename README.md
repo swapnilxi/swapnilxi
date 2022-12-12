@@ -6,21 +6,22 @@
 # ⚡Open Source
 
 <hr/>
-# ⚡Java- 
+
+# ⚡Java 
 
 ## Java-Ninja 
-### Repository for Basics Java Learning 
-### Multiple Resources at one place
-### Added Wiki(Documentation) and Blog and reference links
+- Repository for Basics Java Learning 
+- Multiple Resources at one place
+- Added Wiki(Documentation) and Blog and reference links
 
 ## Java-LinkedinLearning
-### Topic from Linkedin Learning, includes youtube videos, extra resources my learning
-### Addition: This Repositary contains my notes extra study materials and my practice
+- Topic from Linkedin Learning, includes youtube videos, extra resources my learning
+- Addition: This Repositary contains my notes extra study materials and my practice
 
 ## Java Blogs and Notes 
-### Gitbook 
-### Dev.to
-### java-notes
+- Gitbook 
+- Dev.to
+- java-notes
 
 ## Java-at-Microsoft
 - Practices, Link, videos, and resources for Java usages at Microsoft and Azure
@@ -39,6 +40,7 @@
 # ⚡Projects
 ##
 <hr/>
+
 # ⚡React
 - React-Ninja 
 - React-Training 
@@ -55,6 +57,7 @@
 ## Spring Cloud 
 ## Spring Azure
 <hr/>
+
 # Cloud Computing and Devops
 
 <!--
