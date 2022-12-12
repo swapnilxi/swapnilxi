@@ -1,5 +1,5 @@
 ## Hi there, Swapnil This side 👋
-- 📫 reach me: Gmail | Linkedin | Twitter
+- 📫 reach me: Email | Linkedin | Twitter
 - 📫 portfolio: [SwapnilProfile| Java](https://bit.ly/swapnilProfile)  
 
 - 🔭 I’m currently working on 
