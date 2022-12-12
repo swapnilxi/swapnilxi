@@ -3,6 +3,14 @@
 - 📫 portfolio: [SwapnilProfile| Java](https://bit.ly/swapnilProfile)  
 
 ## 🔭 I’m currently working on 
+- open Source 
+- Java 
+- DataStructure and Algorithm 
+- My Projects
+- React 
+- Spring Boot 
+- Cloud Computing and Devops
+
 # ⚡Open Source
 
 <hr/>
