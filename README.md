@@ -1,5 +1,5 @@
 ## Hi there, Swapnil This side 👋
-- 📫 reach me: [Email](mailto: swapnilgupta.xi@gmail.com) | [Linkedin](https://bit.ly/swapnilLinkedin) | [Twitter](https://twitter.com/Insanity_xi)
+- 📫 reach me: [Email](swapnilgupta.xi@gmail.com) | [Linkedin](https://bit.ly/swapnilLinkedin) | [Twitter](https://twitter.com/Insanity_xi)
 - 📫 portfolio: [SwapnilProfile| Java](https://bit.ly/swapnilProfile)  
 
 ## 🔭 I’m currently working on 
