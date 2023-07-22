@@ -12,6 +12,8 @@
 - Cloud Computing and Devops
 
 # ⚡Open Source
+- Apache Kafka
+- Rising Wave
 
 <hr/>
 
