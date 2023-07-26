@@ -51,6 +51,7 @@
 # ⚡Projects
 ## Home to Hospital
 ## The Social Plant 
+## Coupon Store and Eazy Bank
 ### Pay2Mobile Admin Dashboard
 <hr/>
 
