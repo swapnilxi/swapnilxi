@@ -23,6 +23,17 @@
 - Repository for Basics Java Learning 
 - Multiple Resources at one place
 - Added Wiki(Documentation) and Blog and reference links
+  
+# ⚡Spring Boot
+
+## Spring-Ninja 
+- Booking API -CRUD and Devops
+- Spring Security - Securtiy 
+- Coupon Store - Ecommerce
+- Java Jenkins - Automation and Docker
+- Spring Cloud 
+- Spring Azure
+<hr/>
 
 ## Java-LinkedinLearning
 - Topic from Linkedin Learning, includes youtube videos, extra resources my learning
@@ -64,13 +75,6 @@
   - Todo, Counter, Lists, Maps
   - Clothing Store 
 
-<hr/>
-
-# ⚡Spring Boot
-
-## Spring-Ninja 
-- Spring Cloud 
-- Spring Azure
 <hr/>
 
 # ⚡Cloud Computing and Devops
