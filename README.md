@@ -3,11 +3,11 @@
 - 📫 portfolio: [SwapnilProfile| Java](https://bit.ly/swapnilProfile)  
 
 ## 🔭 I’m currently working on 
-- open Source 
-- Java 
+-  Apple Vision Pro and Ios Development
+- Java and open Source technologies
 - DataStructure and Algorithm 
 - My Projects
-- React 
+- React and NextJs
 - Spring Boot and Spring Security
 - Cloud Computing and Devops
 
