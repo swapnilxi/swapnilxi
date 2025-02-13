@@ -1,6 +1,6 @@
 ## Hi there, Swapnil This side 👋
 - 📫 reach me: Email:( swapnilgupta.xi@gmail.com ) | [Linkedin](https://bit.ly/swapnilLinkedin) | [Twitter](https://twitter.com/Insanity_xi)
-- 📫 portfolio: [SwapnilProfile| Java](https://bit.ly/m/swapnilProfile)  
+- 📫 portfolio: [SwapnilProfile| Portfolio](https://bit.ly/m/swapnilProfile)  
 
 ## 🔭 I’m currently working on 
 -  Apple Vision Pro and Ios Development
