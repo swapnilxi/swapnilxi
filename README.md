@@ -10,6 +10,13 @@
 - React and NextJs
 - Spring Boot and Spring Security
 - Cloud Computing and Devops
+  
+# ⚡Apple vision Pro
+- portals
+- DinoWorld
+- whiteBoard and Drawing app
+- Learning OS
+
 
 # ⚡Open Source
 - Apache Kafka
