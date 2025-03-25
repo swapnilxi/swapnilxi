@@ -4,6 +4,7 @@
 
 ## 🔭 I’m currently working on 
 -  Apple Vision Pro and Ios Development
+-  Computer Vision and ML 
 - Java and open Source technologies
 - DataStructure and Algorithm 
 - My Projects
@@ -12,6 +13,7 @@
 - Cloud Computing and Devops
   
 # ⚡Apple vision Pro
+- CoreML on VisionOS
 - portals
 - DinoWorld
 - whiteBoard and Drawing app
