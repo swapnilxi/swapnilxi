@@ -14,6 +14,8 @@
   
 # ⚡Apple vision Pro
 - CoreML on VisionOS
+- AI Agents
+- XR-Teams, MS teams experience in Vision Pro 
 - portals
 - DinoWorld
 - whiteBoard and Drawing app
